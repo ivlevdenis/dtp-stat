@@ -20,10 +20,10 @@
 
 ### Configure project
 
-Project configured by .dockerenv file in docker folder.
-Copy .dockerenv.example and set variables.
+Project configured by **.dockerenv** file in docker folder.
+Copy **docker/.dockerenv.example** to **docker/.dokerenv** and set variables.
 
-[Secret key generator](https://www.lastpass.com/ru/password-generator) recomended length 50 symbols.
+[Secret key generator](https://www.lastpass.com/ru/password-generator), recomended length of secret key 50 symbols.
 
 
 First time need create superuser
